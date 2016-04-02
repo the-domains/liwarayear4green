@@ -1,6 +1,6 @@
 name: Liwarayear4green
 favicon: null
-layout_spectrum: 0.58958
+layout_spectrum: 0.94182
 typography_spectrum: 0.6119
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#964b04'
     - '#b9947e'
     - '#d5c3a5'
-  brandStrength: 0.5
+  brandStrength: 0.375
   lightness: 0.2460673013702035
   saturation: 0.5643851843196899
   rhythmicContrast: 0.7819586803670973
