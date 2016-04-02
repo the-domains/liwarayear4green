@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Liwarayear4green]]></title>
         <description><![CDATA[Liwarayear4green]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/liwarayear4green/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 04:13:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 04:36:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/liwarayear4green/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Year 4 Green using the new Surface Pros. Exciting Stuff :)]]></title>
+            <description><![CDATA[<article><h1>Year 4 Green using the new Surface Pros. Exciting Stuff :)</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/03d7d924-1cc7-4c4d-a88c-1bc91f34a30f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/liwarayear4green/year-4-green-using-the-new-surface-pros-exciting-stuff/index.html</link>
+            <guid isPermaLink="false">af533ea5-db04-434f-8766-1834be683ca0</guid>
+            <pubDate>Sat, 02 Apr 2016 04:34:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/369ef4e3-7f20-4a73-8647-186efe317f97.jpg">]]></description>
-            <link>undefinedartificial-intelligence-has-arrived-at-4g/index.html</link>
+            <link>https://thegrid.ai/liwarayear4green/artificial-intelligence-has-arrived-at-4g/index.html</link>
             <guid isPermaLink="false">2b46baeb-8cc9-475a-9683-caf4374eec2d</guid>
             <pubDate>Sat, 02 Apr 2016 04:12:37 GMT</pubDate>
         </item>
