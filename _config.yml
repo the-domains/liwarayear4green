@@ -1,7 +1,7 @@
 name: Liwarayear4green
 favicon: null
 layout_spectrum: 0.94182
-typography_spectrum: 0.6119
+typography_spectrum: 0.11591
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#3d4d73'
-    - '#964b04'
-    - '#b9947e'
-    - '#d5c3a5'
+    - '#ffffff'
+    - '#254026'
+    - '#fa0006'
+    - '#599562'
+    - '#a1cdac'
   brandStrength: 0.375
   lightness: 0.2460673013702035
   saturation: 0.5643851843196899
